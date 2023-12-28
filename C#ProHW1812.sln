@@ -5,7 +5,7 @@ VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Calculator\Calculator.csproj", "{6D0C96F0-1BE9-49CC-849B-8153918C8323}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW2OOP", "HW2OOP\HW2OOP.csproj", "{A74DE553-8B08-4862-9CD7-94ECA85924B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW2OOPT1", "HW2OOP\HW2OOPT1.csproj", "{A74DE553-8B08-4862-9CD7-94ECA85924B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
